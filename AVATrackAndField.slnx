@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AVATrackAndField/AVATrackAndField.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/AVATrackAndField.Tests/AVATrackAndField.Tests.csproj" />
+  </Folder>
+</Solution>
